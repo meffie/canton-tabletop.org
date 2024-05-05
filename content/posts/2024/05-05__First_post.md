@@ -7,6 +7,7 @@ image: images/catan-close-up.png
 categories:
   - board games
 tags:
+  - feature
   - board games
 draft: false
 ---
