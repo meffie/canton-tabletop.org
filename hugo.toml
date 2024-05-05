@@ -1,4 +1,4 @@
-baseURL = 'http://canton-tabletop.org/'
+baseURL = 'https://canton-tabletop.org/'
 languageCode = 'en-us'
 title = 'Canton Tabletop Gamers'
 theme = 'pehtheme-hugo'
