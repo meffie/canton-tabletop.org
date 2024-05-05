@@ -1,8 +1,10 @@
 ---
-title: "About"
-date: 2023-10-06T20:37:29+07:00
-image: images/default-placeholder.png
+title: "Canton Tabletop Gamers"
+date: 2024-05-05T18:39:49-04:00
+image: images/tabletop-logo-web-whitebg.png
 draft: false
+tags:
+  - feature
 ---
 
 **Canton Tabletop Gamers** is an informal group of board game enthusiasts in Canton, Ohio.

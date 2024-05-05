@@ -1,13 +1,12 @@
 ---
 title: "Example post"
-date: 2023-08-12T14:15:05+07:00
+date: 2024-05-05T18:39:49-04:00
 slug: /example-post/
 description: Example content for the new Canton Tabletop Gamers site.
 image: images/catan-close-up.png
 categories:
   - board games
 tags:
-  - feature
   - board games
 draft: false
 ---
