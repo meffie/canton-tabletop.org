@@ -1,0 +1,4 @@
+*.bak
+.hugo_build.lock
+public/
+resources/
