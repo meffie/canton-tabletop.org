@@ -12,6 +12,7 @@ summaryLength = '20' # <- 20 words are approximately 160 characters
     # Meta description, not exceeding 160 characters, used for the meta description within the HTML head
     description = 'Canton Tabletop Gamers: Board gaming group in Canton, Ohio, USA'
     mainSections = 'posts'
+    mainCategory = 'board games'
 
 [author]
     name = 'Canton Tabletop Gamers'
