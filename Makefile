@@ -9,12 +9,12 @@ help:
 	@echo "  clean    Remove generated files"
 
 .PHONY: preview
-preview:
+preview: clean
 	(sleep 1 && xdg-open http://localhost:1313) &
-	hugo server
+	hugo --baseURL=http://localhost:1313 server
 
 .PHONY: deploy
-deploy: build
+deploy: clean build
 	rsync -avz --delete public/ $(PUBLIC_HTML)
 
 .PHONY: build
