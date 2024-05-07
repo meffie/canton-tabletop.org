@@ -1,6 +1,4 @@
 
-PUBLIC_HTML := mike@www.meffie.org:/var/www/canton-tabletop.org/
-
 .PHONY: help
 help:
 	@echo "make <target>"
@@ -10,12 +8,12 @@ help:
 	@echo "  build    Build files for local check"
 	@echo "  clean    Remove generated files"
 
-.PHONY:
+.PHONY: preview
 preview:
 	(sleep 1 && xdg-open http://localhost:1313) &
 	hugo server
 
-.PHONY: clean deploy
+.PHONY: deploy
 deploy: build
 	rsync -avz --delete public/ $(PUBLIC_HTML)
 
