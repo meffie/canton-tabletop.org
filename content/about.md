@@ -1,7 +1,7 @@
 ---
 title: "Canton Tabletop Gamers"
 date: 2024-05-05T18:39:49-04:00
-image: images/tabletop-logo-web-whitebg.png
+image: images/tabletop-logo-web-whitebg-smaller.png
 draft: false
 tags:
   - feature
