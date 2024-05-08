@@ -5,9 +5,9 @@ slug: /example-post/
 description: Example content for the new Canton Tabletop Gamers site.
 image: images/catan-close-up.png
 categories:
-  - board games
+  - boardgames
 tags:
-  - board games
+  - example
 draft: false
 ---
 
