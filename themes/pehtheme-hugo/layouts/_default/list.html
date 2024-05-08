@@ -11,11 +11,11 @@
     <div class="grid grid-cols-1 md:grid-cols-2 gap-y-10 gap-x-4">
 
       {{ range ( .Paginator 6 ).Pages }}
-      
+
         {{- partial "content/card.html" . -}}
 
       {{ end }}
-    
+
     </div>
 
     <!-- Paginate here -->
@@ -29,13 +29,13 @@
         <a class="border rounded-full px-6 py-2 hover:bg-zinc-200" href="{{ .Paginator.Next.URL }}">Next →</a>
       {{- end -}}
     </div>
-  
+
   </section>
 
   <aside class="md:col-span-1">
 
     {{- partial "content/aside.html" . -}}
-    
+
   </aside>
 
   </div>
