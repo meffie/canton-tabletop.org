@@ -34,8 +34,8 @@
       <h2 class="text-3xl md:text-4xl font-bold mr-auto">{{ $cat | humanize }}</h2>
 
       {{ $category := printf "/categories/%s" $cat }}
-      {{ $categoryWithFixedSpaces := replace $category " " "-" }}
-      <a class="border rounded-full py-2 px-4 md:px-6 hover:bg-blue-100" href="{{ $categoryWithFixedSpaces | absURL }} ">View All</a>
+      {{ $categoryWithHyphens := replace $category " " "-" }}
+      <a class="border rounded-full py-2 px-4 md:px-6 hover:bg-blue-100" href="{{ $categoryWithHyphens | absURL }} ">View All</a>
     </div>
 
     <div class="grid grid-cols-1 md:grid-cols-3 gap-x-6 gap-y-10">
