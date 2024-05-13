@@ -1,44 +1,40 @@
 ---
-title: "Example post"
+title: "Welcome"
 date: 2024-05-05T18:39:49-04:00
-slug: /example-post/
-description: Example content for the new Canton Tabletop Gamers site.
+slug: /welcome/
+description: Welcome to the Canton Tabletop Gamers site
 image: images/catan-close-up.png
 categories:
   - boardgames
-tags:
-  - example
+  - announcements
 draft: false
 ---
 
+## Welcome to the Canton Tabletop Gamers
 
-This is an example post for the new Canton Tabletop Gamers site just to test
-things out.
+For nearly a decade, the Canton Tabletop Gamers have been gathering on Thursday
+nights in downtown Canton, Ohio to share in the joy of board gaming. With a
+rich history and a passion for exploring new games and experiences, our group
+has grown into a vibrant community of gamers who crave social interaction,
+friendly competition, and the thrill of discovering new favorites.
 
-## Content needed
+## What You'll Find Here
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quam leo,
-ultricies dictum leo vitae, congue hendrerit erat. Integer vitae laoreet
-turpis. Pellentesque maximus elementum malesuada. Aenean dignissim dignissim
-nunc sed blandit. Curabitur mollis dapibus luctus. Ut facilisis tellus ut
-gravida aliquam. Aliquam quis orci fringilla arcu dapibus pulvinar. In egestas
-erat odio, tincidunt convallis enim aliquam quis. Nullam ante leo, porta a elit
-in, euismod convallis nulla. Nulla facilisi. Vivamus ut lorem facilisis,
-aliquet mauris vel, auctor erat. Vestibulum ante ipsum primis in faucibus orci
-luctus et ultrices posuere cubilia curae; Sed erat purus, sagittis non
-vestibulum sed, dictum id ipsum.
+On this website, we're excited to launch a platform that showcases our group's
+activities, shares knowledge about the games we love, and provides a hub for
+discussion and connection. Whether you're an existing member or just curious
+about what we're all about, you'll find:
 
-Integer faucibus eget nisi luctus aliquam. Donec ut lectus massa. Fusce
-volutpat dui sed orci tristique, ac feugiat nulla hendrerit. Proin sit amet
-risus a nibh sodales porttitor et vitae quam. Cras nisl dolor, bibendum sit
-amet facilisis vitae, accumsan eu elit. Duis cursus condimentum erat consequat
-congue. Mauris vestibulum gravida nulla, non tincidunt ante rutrum ac. Aliquam
-in convallis felis. Nullam fermentum turpis mi, in interdum lectus congue non.
+* **Game Highlights**: Learn more about the games we play, including reviews, ratings, and insights from our members.
+* **Event Calendar**: Stay up-to-date on upcoming gaming sessions, events, and meetups.
+* **Announcements**: Get notified about important group news, changes to schedules, or special announcements.
+* **Reviews and Recommendations**: Join the conversation by sharing your thoughts on games we've played, and discover new titles based on our members' opinions.
 
-Cras fermentum mi id mi iaculis feugiat. Vestibulum tristique justo eu pretium
-accumsan. Cras eleifend laoreet lorem, vitae porttitor mauris commodo non.
-Mauris condimentum dui tortor. Orci varius natoque penatibus et magnis dis
-parturient montes, nascetur ridiculus mus. Praesent ut fermentum erat. Vivamus
-convallis mollis odio, vitae finibus enim aliquet lacinia. Duis eu dui eu enim
-porttitor lacinia ac eu ligula. Mauris a blandit sapien, id lobortis diam.
-Integer ac efficitur nibh. Morbi finibus pellentesque quam vitae tincidunt. 
+## Join the Fun!
+
+Whether you're a seasoned gamer or just looking for a social outlet, we invite
+you to explore this website, join our [meetup][1] to learn more about our
+group, and join us for a Thursday night of fun and games.
+
+
+[1]: https://meetup.com/canton-tabletop-gamers/
