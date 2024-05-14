@@ -16,7 +16,7 @@ summaryLength = '20' # <- 20 words are approximately 160 characters
 
 [author]
     name = 'Canton Tabletop Gamers'
-    bio = 'Debitis assumenda esse dignissimos aperiam delectus maxime tenetur repudiandae dolore'
+    bio = 'Tabletop board gaming in Canton Ohio'
     #avatar = '/images/nasa-astronaut-unsplash.jpg'
     #twitter = 'https://twitter.com/insertapps'
 
