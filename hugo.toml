@@ -13,6 +13,7 @@ summaryLength = '20' # <- 20 words are approximately 160 characters
     description = 'Canton Tabletop Gamers: Board gaming group in Canton, Ohio, USA'
     mainSections = 'posts'
     mainCategory = 'boardgames'
+    comments = false
 
 [author]
     name = 'Canton Tabletop Gamers'
