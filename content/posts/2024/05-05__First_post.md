@@ -5,7 +5,7 @@ slug: /welcome/
 description: Welcome to the Canton Tabletop Gamers site
 image: images/catan-close-up.png
 categories:
-  - boardgames
+  - board games
   - announcements
 draft: false
 ---
