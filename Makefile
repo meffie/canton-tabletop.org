@@ -3,10 +3,17 @@
 help:
 	@echo "make <target>"
 	@echo "targets:"
+	@echo "  post T='title string'  Create a new markdown file"
 	@echo "  preview  Start the hugo server and a browser"
 	@echo "  deploy   Publish files on public site"
 	@echo "  build    Build files for local check"
 	@echo "  clean    Remove generated files"
+
+.PHONY: post
+post:
+	@test ! -z "$(T)" || (echo "usage: make post T='<title string>'" >&2; exit 1)
+	year=`date +'%Y'`; mm_dd=`date +'%m-%d'`; title=`echo $(T) | tr ' ' '-'`; \
+	hugo new content posts/$${year}/$${mm_dd}__$${title}.md
 
 .PHONY: preview
 preview: clean
