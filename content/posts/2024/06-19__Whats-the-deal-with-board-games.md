@@ -1,7 +1,7 @@
 ---
 title: "What's the Deal With Board Games"
 date: 2024-06-19T10:45:40-04:00
-image: images/catan-close-up.png
+image: images/game-night-01-19-23.jpeg
 author:
  name: Andrew Kennedy
  bio:
