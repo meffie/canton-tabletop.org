@@ -1,4 +1,5 @@
 *.bak
 .hugo_build.lock
+.envrc
 public/
 resources/
