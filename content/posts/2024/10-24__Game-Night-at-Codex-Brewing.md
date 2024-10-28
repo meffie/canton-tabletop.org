@@ -21,6 +21,8 @@ turns.  The party was able to explore much of the house, until one of us fell
 asleep and then a number of ghosts appeared and dashed out of the house,
 failing to stop them, well, it was curtains.
 
+![](/images/game-night-2024-10-24-1.jpg)
+
 A number of other games were played at the other table:
 
 * [Coin Age](https://boardgamegeek.com/boardgame/146130/coin-age)
@@ -29,3 +31,6 @@ A number of other games were played at the other table:
 * [Skull](https://boardgamegeek.com/boardgame/92415/skull)
 * [Landmarks](https://boardgamegeek.com/boardgame/421374/landmarks)
 * [Stick em](https://boardgamegeek.com/boardgame/354/stick-em)
+
+Thanks to everyone that came out and participated! See you at the next Game
+Night.
