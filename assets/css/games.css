@@ -1,0 +1,12 @@
+/* Game collection table styling */
+
+table.games {
+}
+
+table.games a:link {
+    text-decoration: none;
+}
+
+table.games a:hover {
+    text-decoration: underline;
+}

@@ -1,0 +1,18 @@
+<table class="games">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Year Published</th>
+      <th>Number of Copies</th>
+    </tr>
+  </thead>
+  <tbody>
+  {{ range sort .Site.Data.games "Name" }}
+    <tr>
+      <td><a href="{{ .Url }}">{{ .Name }}</a></td>
+      <td>{{ .YearPublished }}</td>
+      <td>{{ .Copies }}</td>
+    </tr>
+  {{ end }}
+  </tbody>
+</table>

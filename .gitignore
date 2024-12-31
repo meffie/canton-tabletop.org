@@ -3,3 +3,4 @@
 .envrc
 public/
 resources/
+bin/bgg-export

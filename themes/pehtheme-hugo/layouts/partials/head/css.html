@@ -7,3 +7,6 @@
     {{- end }}
   {{- end }}
 {{- end }}
+{{- with resources.Get "css/games.css" }}
+    <link rel="stylesheet" href="{{ .RelPermalink }}">
+{{- end }}
