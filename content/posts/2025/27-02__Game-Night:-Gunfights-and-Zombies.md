@@ -33,7 +33,7 @@ ended up burning the town down, and sealing their victory with two incredibly
 lucky rolls on dynamite explosions! The table was alive with the banter of
 cowboys and outlaws, and the occasional frustrated groan as a carefully laid
 plan was foiled by a lucky dice roll. It was a perfect blend of strategy and
-chance, capturing the spirit of the Old West in a fun and engaging way."
+chance, capturing the spirit of the Old West in a fun and engaging way.
 
 ## Meanwhile, at the "Dead of Winter" Table:
 
