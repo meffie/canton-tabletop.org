@@ -108,12 +108,6 @@
     "Copies": 1
   },
   {
-    "Name": "A Game of Cat \u0026 Mouth",
-    "YearPublished": 2020,
-    "Url": "https://boardgamegeek.com/boardgame/321539/",
-    "Copies": 1
-  },
-  {
     "Name": "A Gentle Rain",
     "YearPublished": 2021,
     "Url": "https://boardgamegeek.com/boardgame/334011/",
@@ -151,8 +145,8 @@
   },
   {
     "Name": "Age of War",
-    "YearPublished": 2014,
-    "Url": "https://boardgamegeek.com/boardgame/155695/",
+    "YearPublished": 2006,
+    "Url": "https://boardgamegeek.com/boardgame/28086/",
     "Copies": 2
   },
   {
@@ -225,12 +219,6 @@
     "Name": "Anomia",
     "YearPublished": 2010,
     "Url": "https://boardgamegeek.com/boardgame/67877/",
-    "Copies": 1
-  },
-  {
-    "Name": "Apotheca",
-    "YearPublished": 2016,
-    "Url": "https://boardgamegeek.com/boardgame/174614/",
     "Copies": 1
   },
   {
@@ -396,21 +384,27 @@
     "Copies": 1
   },
   {
-    "Name": "Arena: The Contest",
-    "YearPublished": 2019,
-    "Url": "https://boardgamegeek.com/boardgame/219217/",
+    "Name": "ArchRavels: Magic Socks",
+    "YearPublished": 2023,
+    "Url": "https://boardgamegeek.com/boardgame/365590/",
     "Copies": 1
   },
   {
-    "Name": "Arena: The Contest – Heroes \u0026 Dungeons",
-    "YearPublished": 2019,
-    "Url": "https://boardgamegeek.com/boardgame/264901/",
+    "Name": "Arcs",
+    "YearPublished": 2024,
+    "Url": "https://boardgamegeek.com/boardgame/359871/",
     "Copies": 1
   },
   {
-    "Name": "Arena: The Contest – Imperial Box",
-    "YearPublished": 2019,
-    "Url": "https://boardgamegeek.com/boardgame/293001/",
+    "Name": "Arcs: Leaders \u0026 Lore Pack",
+    "YearPublished": 2024,
+    "Url": "https://boardgamegeek.com/boardgame/419279/",
+    "Copies": 1
+  },
+  {
+    "Name": "Arcs: The Blighted Reach Expansion",
+    "YearPublished": 2024,
+    "Url": "https://boardgamegeek.com/boardgame/363757/",
     "Copies": 1
   },
   {
@@ -498,12 +492,6 @@
     "Copies": 1
   },
   {
-    "Name": "Ashes to Ashes",
-    "YearPublished": 2021,
-    "Url": "https://boardgamegeek.com/boardgame/277565/",
-    "Copies": 1
-  },
-  {
     "Name": "Asking for Trobils",
     "YearPublished": 2015,
     "Url": "https://boardgamegeek.com/boardgame/156442/",
@@ -525,6 +513,12 @@
     "Name": "Aurum",
     "YearPublished": 2023,
     "Url": "https://boardgamegeek.com/boardgame/383459/",
+    "Copies": 1
+  },
+  {
+    "Name": "Avant Carde",
+    "YearPublished": 2024,
+    "Url": "https://boardgamegeek.com/boardgame/390163/",
     "Copies": 1
   },
   {
@@ -567,6 +561,12 @@
     "Name": "Azul: Stained Glass of Sintra",
     "YearPublished": 2018,
     "Url": "https://boardgamegeek.com/boardgame/256226/",
+    "Copies": 1
+  },
+  {
+    "Name": "Azul: Summer Pavilion",
+    "YearPublished": 2019,
+    "Url": "https://boardgamegeek.com/boardgame/287954/",
     "Copies": 1
   },
   {
@@ -630,6 +630,12 @@
     "Copies": 1
   },
   {
+    "Name": "Barbecubes",
+    "YearPublished": 2025,
+    "Url": "https://boardgamegeek.com/boardgame/393114/",
+    "Copies": 1
+  },
+  {
     "Name": "Bargain Basement Bathysphere",
     "YearPublished": 2022,
     "Url": "https://boardgamegeek.com/boardgame/255360/",
@@ -684,12 +690,6 @@
     "Copies": 1
   },
   {
-    "Name": "Batman: The Animated Series – Gotham City Under Siege",
-    "YearPublished": 2018,
-    "Url": "https://boardgamegeek.com/boardgame/252693/",
-    "Copies": 1
-  },
-  {
     "Name": "Battle Sheep",
     "YearPublished": 2010,
     "Url": "https://boardgamegeek.com/boardgame/54137/",
@@ -705,12 +705,6 @@
     "Name": "Battleship",
     "YearPublished": 2014,
     "Url": "https://boardgamegeek.com/boardgame/165283/",
-    "Copies": 1
-  },
-  {
-    "Name": "BattleTech: Beginner Box",
-    "YearPublished": 2019,
-    "Url": "https://boardgamegeek.com/boardgame/283768/",
     "Copies": 1
   },
   {
@@ -756,6 +750,12 @@
     "Copies": 1
   },
   {
+    "Name": "Bebop",
+    "YearPublished": 2024,
+    "Url": "https://boardgamegeek.com/boardgame/414349/",
+    "Copies": 1
+  },
+  {
     "Name": "Betrayal at House on the Hill",
     "YearPublished": 2004,
     "Url": "https://boardgamegeek.com/boardgame/10547/",
@@ -792,6 +792,12 @@
     "Copies": 1
   },
   {
+    "Name": "Big Trouble in Little China: The Game – Deluxe Edition",
+    "YearPublished": 2018,
+    "Url": "https://boardgamegeek.com/boardgame/257089/",
+    "Copies": 1
+  },
+  {
     "Name": "BIGFOOT: Roll \u0026 Smash",
     "YearPublished": 2023,
     "Url": "https://boardgamegeek.com/boardgame/346979/",
@@ -801,6 +807,12 @@
     "Name": "BIGFOOT: Roll \u0026 Smash – MODS Expansion",
     "YearPublished": 2023,
     "Url": "https://boardgamegeek.com/boardgame/363318/",
+    "Copies": 1
+  },
+  {
+    "Name": "Black Forest",
+    "YearPublished": 2024,
+    "Url": "https://boardgamegeek.com/boardgame/420805/",
     "Copies": 1
   },
   {
@@ -900,21 +912,9 @@
     "Copies": 1
   },
   {
-    "Name": "Boss Monster: The Dungeon Building Card Game",
-    "YearPublished": 2013,
-    "Url": "https://boardgamegeek.com/boardgame/131835/",
-    "Copies": 1
-  },
-  {
     "Name": "Box One",
     "YearPublished": 2020,
     "Url": "https://boardgamegeek.com/boardgame/323255/",
-    "Copies": 1
-  },
-  {
-    "Name": "Brain Games",
-    "YearPublished": 2015,
-    "Url": "https://boardgamegeek.com/boardgame/194960/",
     "Copies": 1
   },
   {
@@ -972,6 +972,12 @@
     "Copies": 1
   },
   {
+    "Name": "Bus",
+    "YearPublished": 1999,
+    "Url": "https://boardgamegeek.com/boardgame/552/",
+    "Copies": 1
+  },
+  {
     "Name": "Bärenpark",
     "YearPublished": 2017,
     "Url": "https://boardgamegeek.com/boardgame/219513/",
@@ -993,13 +999,7 @@
     "Name": "Cacao",
     "YearPublished": 2015,
     "Url": "https://boardgamegeek.com/boardgame/171499/",
-    "Copies": 1
-  },
-  {
-    "Name": "Cahoots",
-    "YearPublished": 2018,
-    "Url": "https://boardgamegeek.com/boardgame/246761/",
-    "Copies": 1
+    "Copies": 2
   },
   {
     "Name": "Camel Up",
@@ -1029,6 +1029,12 @@
     "Name": "Can't Stop",
     "YearPublished": 1980,
     "Url": "https://boardgamegeek.com/boardgame/41/",
+    "Copies": 1
+  },
+  {
+    "Name": "Canopy",
+    "YearPublished": 2021,
+    "Url": "https://boardgamegeek.com/boardgame/295607/",
     "Copies": 1
   },
   {
@@ -1158,6 +1164,12 @@
     "Copies": 2
   },
   {
+    "Name": "Castle Combo",
+    "YearPublished": 2024,
+    "Url": "https://boardgamegeek.com/boardgame/416851/",
+    "Copies": 1
+  },
+  {
     "Name": "Castle Panic",
     "YearPublished": 2009,
     "Url": "https://boardgamegeek.com/boardgame/43443/",
@@ -1188,6 +1200,12 @@
     "Copies": 2
   },
   {
+    "Name": "Castle Raisers",
+    "YearPublished": 2025,
+    "Url": "https://boardgamegeek.com/boardgame/427596/",
+    "Copies": 1
+  },
+  {
     "Name": "Castles of Mad King Ludwig",
     "YearPublished": 2014,
     "Url": "https://boardgamegeek.com/boardgame/155426/",
@@ -1212,7 +1230,7 @@
     "Copies": 3
   },
   {
-    "Name": "Catan: 5-6 Player Extension",
+    "Name": "CATAN: 5-6 Player Expansion",
     "YearPublished": 1996,
     "Url": "https://boardgamegeek.com/boardgame/2807/",
     "Copies": 1
@@ -1236,7 +1254,7 @@
     "Copies": 1
   },
   {
-    "Name": "Catan: Seafarers – 5-6 Player Extension",
+    "Name": "CATAN: Seafarers – 5-6 Player Extension",
     "YearPublished": 1999,
     "Url": "https://boardgamegeek.com/boardgame/4103/",
     "Copies": 1
@@ -1254,7 +1272,7 @@
     "Copies": 1
   },
   {
-    "Name": "Catapult Feud: Artificer's Tower Expansion",
+    "Name": "Catapult Feud: Artificer's Tower!",
     "YearPublished": 2021,
     "Url": "https://boardgamegeek.com/boardgame/330302/",
     "Copies": 1
@@ -1287,6 +1305,12 @@
     "Name": "Catch the Moon",
     "YearPublished": 2017,
     "Url": "https://boardgamegeek.com/boardgame/218129/",
+    "Copies": 1
+  },
+  {
+    "Name": "Caution Signs",
+    "YearPublished": 2024,
+    "Url": "https://boardgamegeek.com/boardgame/407805/",
     "Copies": 1
   },
   {
@@ -1348,6 +1372,18 @@
     "YearPublished": 2023,
     "Url": "https://boardgamegeek.com/boardgame/371535/",
     "Copies": 3
+  },
+  {
+    "Name": "Chimera Station",
+    "YearPublished": 2017,
+    "Url": "https://boardgamegeek.com/boardgame/163642/",
+    "Copies": 1
+  },
+  {
+    "Name": "Chip Theory Games: Promo Pack 2020",
+    "YearPublished": 2020,
+    "Url": "https://boardgamegeek.com/boardgame/330276/",
+    "Copies": 1
   },
   {
     "Name": "Chronicles of Crime",
@@ -1440,7 +1476,7 @@
     "Copies": 1
   },
   {
-    "Name": "Clank!: Friendly Watcher",
+    "Name": "Clank!: Friendly Watcher Promo Card",
     "YearPublished": 2017,
     "Url": "https://boardgamegeek.com/boardgame/233019/",
     "Copies": 1
@@ -1530,6 +1566,12 @@
     "Copies": 1
   },
   {
+    "Name": "Colors of Paris",
+    "YearPublished": 2019,
+    "Url": "https://boardgamegeek.com/boardgame/269160/",
+    "Copies": 1
+  },
+  {
     "Name": "Colt Express",
     "YearPublished": 2014,
     "Url": "https://boardgamegeek.com/boardgame/158899/",
@@ -1554,6 +1596,12 @@
     "Copies": 1
   },
   {
+    "Name": "Corps of Discovery: A Game Set in the World of Manifest Destiny",
+    "YearPublished": 2025,
+    "Url": "https://boardgamegeek.com/boardgame/396895/",
+    "Copies": 2
+  },
+  {
     "Name": "Cosmoctopus",
     "YearPublished": 2023,
     "Url": "https://boardgamegeek.com/boardgame/362020/",
@@ -1563,7 +1611,7 @@
     "Name": "Coup",
     "YearPublished": 2012,
     "Url": "https://boardgamegeek.com/boardgame/131357/",
-    "Copies": 2
+    "Copies": 3
   },
   {
     "Name": "Coup: Reformation",
@@ -1575,6 +1623,12 @@
     "Name": "Courtisans",
     "YearPublished": 2024,
     "Url": "https://boardgamegeek.com/boardgame/402283/",
+    "Copies": 1
+  },
+  {
+    "Name": "Couture",
+    "YearPublished": 2023,
+    "Url": "https://boardgamegeek.com/boardgame/377716/",
     "Copies": 1
   },
   {
@@ -1629,7 +1683,7 @@
     "Name": "Cthulhu: Death May Die – Season 2 Expansion",
     "YearPublished": 2019,
     "Url": "https://boardgamegeek.com/boardgame/256972/",
-    "Copies": 1
+    "Copies": 2
   },
   {
     "Name": "Ctrl",
@@ -1704,39 +1758,9 @@
     "Copies": 1
   },
   {
-    "Name": "Delve",
-    "YearPublished": 2017,
-    "Url": "https://boardgamegeek.com/boardgame/217894/",
-    "Copies": 1
-  },
-  {
     "Name": "Dementalism",
     "YearPublished": 2008,
     "Url": "https://boardgamegeek.com/boardgame/36906/",
-    "Copies": 1
-  },
-  {
-    "Name": "Descent: Journeys in the Dark (Second Edition)",
-    "YearPublished": 2012,
-    "Url": "https://boardgamegeek.com/boardgame/104162/",
-    "Copies": 1
-  },
-  {
-    "Name": "Descent: Journeys in the Dark (Second Edition) – Manor of Ravens",
-    "YearPublished": 2014,
-    "Url": "https://boardgamegeek.com/boardgame/156879/",
-    "Copies": 1
-  },
-  {
-    "Name": "Descent: Journeys in the Dark (Second Edition) – Mists of Bilehall",
-    "YearPublished": 2015,
-    "Url": "https://boardgamegeek.com/boardgame/181613/",
-    "Copies": 1
-  },
-  {
-    "Name": "Descent: Journeys in the Dark (Second Edition) – The Trollfens",
-    "YearPublished": 2013,
-    "Url": "https://boardgamegeek.com/boardgame/143827/",
     "Copies": 1
   },
   {
@@ -1746,15 +1770,15 @@
     "Copies": 1
   },
   {
-    "Name": "Descent: The Sea of Blood",
-    "YearPublished": 2009,
-    "Url": "https://boardgamegeek.com/boardgame/55150/",
-    "Copies": 1
-  },
-  {
     "Name": "Detective: A Modern Crime Board Game",
     "YearPublished": 2018,
     "Url": "https://boardgamegeek.com/boardgame/223321/",
+    "Copies": 1
+  },
+  {
+    "Name": "Diamant",
+    "YearPublished": 2005,
+    "Url": "https://boardgamegeek.com/boardgame/15512/",
     "Copies": 1
   },
   {
@@ -1762,6 +1786,36 @@
     "YearPublished": 2014,
     "Url": "https://boardgamegeek.com/boardgame/152162/",
     "Copies": 2
+  },
+  {
+    "Name": "Dice Cards",
+    "YearPublished": 2023,
+    "Url": "https://boardgamegeek.com/boardgame/368846/",
+    "Copies": 1
+  },
+  {
+    "Name": "Dice City",
+    "YearPublished": 2015,
+    "Url": "https://boardgamegeek.com/boardgame/179572/",
+    "Copies": 1
+  },
+  {
+    "Name": "Dice City: All That Glitters",
+    "YearPublished": 2016,
+    "Url": "https://boardgamegeek.com/boardgame/190831/",
+    "Copies": 1
+  },
+  {
+    "Name": "Dice City: By Royal Decree",
+    "YearPublished": 2016,
+    "Url": "https://boardgamegeek.com/boardgame/206612/",
+    "Copies": 1
+  },
+  {
+    "Name": "Dice City: Crossroads",
+    "YearPublished": 2016,
+    "Url": "https://boardgamegeek.com/boardgame/200150/",
+    "Copies": 1
   },
   {
     "Name": "Dice Forge",
@@ -1878,6 +1932,12 @@
     "Copies": 1
   },
   {
+    "Name": "Disney Villainous: Evil Comes Prepared",
+    "YearPublished": 2019,
+    "Url": "https://boardgamegeek.com/boardgame/284760/",
+    "Copies": 1
+  },
+  {
     "Name": "Disney Villainous: The Worst Takes it All",
     "YearPublished": 2018,
     "Url": "https://boardgamegeek.com/boardgame/256382/",
@@ -1950,15 +2010,45 @@
     "Copies": 1
   },
   {
+    "Name": "Dominion (Second Edition) Big Box",
+    "YearPublished": 2016,
+    "Url": "https://boardgamegeek.com/boardgame/216849/",
+    "Copies": 1
+  },
+  {
+    "Name": "Dominion: Empires",
+    "YearPublished": 2016,
+    "Url": "https://boardgamegeek.com/boardgame/192951/",
+    "Copies": 1
+  },
+  {
     "Name": "Dominion: Intrigue",
     "YearPublished": 2009,
     "Url": "https://boardgamegeek.com/boardgame/40834/",
     "Copies": 1
   },
   {
+    "Name": "Dominion: Intrigue – Update Pack",
+    "YearPublished": 2016,
+    "Url": "https://boardgamegeek.com/boardgame/209358/",
+    "Copies": 1
+  },
+  {
     "Name": "Dominion: Prosperity",
     "YearPublished": 2010,
     "Url": "https://boardgamegeek.com/boardgame/66690/",
+    "Copies": 1
+  },
+  {
+    "Name": "Dominion: Prosperity – Update Pack",
+    "YearPublished": 2022,
+    "Url": "https://boardgamegeek.com/boardgame/364019/",
+    "Copies": 1
+  },
+  {
+    "Name": "Dominion: Update Pack",
+    "YearPublished": 2016,
+    "Url": "https://boardgamegeek.com/boardgame/209357/",
     "Copies": 1
   },
   {
@@ -2046,6 +2136,12 @@
     "Copies": 1
   },
   {
+    "Name": "Duck \u0026 Cover",
+    "YearPublished": 2024,
+    "Url": "https://boardgamegeek.com/boardgame/422019/",
+    "Copies": 1
+  },
+  {
     "Name": "Dune: Imperium",
     "YearPublished": 2020,
     "Url": "https://boardgamegeek.com/boardgame/316554/",
@@ -2112,15 +2208,27 @@
     "Copies": 3
   },
   {
+    "Name": "Earth: Abundance",
+    "YearPublished": 2025,
+    "Url": "https://boardgamegeek.com/boardgame/414734/",
+    "Copies": 1
+  },
+  {
     "Name": "Eclipse: New Dawn for the Galaxy",
     "YearPublished": 2011,
     "Url": "https://boardgamegeek.com/boardgame/72125/",
-    "Copies": 1
+    "Copies": 2
   },
   {
     "Name": "Eclipse: Rise of the Ancients",
     "YearPublished": 2012,
     "Url": "https://boardgamegeek.com/boardgame/125898/",
+    "Copies": 1
+  },
+  {
+    "Name": "Eclipse: Ship Pack One",
+    "YearPublished": 2013,
+    "Url": "https://boardgamegeek.com/boardgame/146690/",
     "Copies": 1
   },
   {
@@ -2166,6 +2274,24 @@
     "Copies": 1
   },
   {
+    "Name": "Eleven: Football Manager Board Game",
+    "YearPublished": 2022,
+    "Url": "https://boardgamegeek.com/boardgame/329716/",
+    "Copies": 1
+  },
+  {
+    "Name": "Eleven: Solo Campaign Expansion",
+    "YearPublished": 2022,
+    "Url": "https://boardgamegeek.com/boardgame/346439/",
+    "Copies": 1
+  },
+  {
+    "Name": "Eleven: Stadium Expansion",
+    "YearPublished": 2022,
+    "Url": "https://boardgamegeek.com/boardgame/346436/",
+    "Copies": 1
+  },
+  {
     "Name": "ElfBall",
     "YearPublished": 2007,
     "Url": "https://boardgamegeek.com/boardgame/19161/",
@@ -2196,34 +2322,10 @@
     "Copies": 1
   },
   {
-    "Name": "Epic Spell Wars of the Battle Wizards: Duel at Mt. Skullzfyre",
-    "YearPublished": 2012,
-    "Url": "https://boardgamegeek.com/boardgame/112686/",
-    "Copies": 1
-  },
-  {
-    "Name": "Epic Spell Wars of the Battle Wizards: Melee at Murdershroom Marsh",
-    "YearPublished": 2017,
-    "Url": "https://boardgamegeek.com/boardgame/221366/",
-    "Copies": 1
-  },
-  {
-    "Name": "Epic Spell Wars of the Battle Wizards: Rumble at Castle Tentakill",
-    "YearPublished": 2015,
-    "Url": "https://boardgamegeek.com/boardgame/173200/",
-    "Copies": 1
-  },
-  {
-    "Name": "Escape the Room: Mystery at the Stargazer's Manor",
-    "YearPublished": 2015,
-    "Url": "https://boardgamegeek.com/boardgame/193560/",
-    "Copies": 1
-  },
-  {
     "Name": "Escape: Roll \u0026 Write",
     "YearPublished": 2021,
     "Url": "https://boardgamegeek.com/boardgame/310198/",
-    "Copies": 1
+    "Copies": 2
   },
   {
     "Name": "Escape: The Curse of the Temple",
@@ -2262,6 +2364,12 @@
     "Copies": 1
   },
   {
+    "Name": "Everdell Duo",
+    "YearPublished": 2025,
+    "Url": "https://boardgamegeek.com/boardgame/425005/",
+    "Copies": 1
+  },
+  {
     "Name": "Everdell: Bellfaire",
     "YearPublished": 2019,
     "Url": "https://boardgamegeek.com/boardgame/289057/",
@@ -2280,61 +2388,55 @@
     "Copies": 1
   },
   {
-    "Name": "Evil Dead 2: The Board Game",
-    "YearPublished": 2020,
-    "Url": "https://boardgamegeek.com/boardgame/287507/",
-    "Copies": 1
-  },
-  {
     "Name": "Ex Libris",
     "YearPublished": 2017,
     "Url": "https://boardgamegeek.com/boardgame/201825/",
     "Copies": 1
   },
   {
-    "Name": "Exit: The Game – Dead Man on the Orient Express",
+    "Name": "EXIT: The Game – Dead Man on the Orient Express",
     "YearPublished": 2017,
     "Url": "https://boardgamegeek.com/boardgame/226522/",
     "Copies": 1
   },
   {
-    "Name": "Exit: The Game – The Forbidden Castle",
+    "Name": "EXIT: The Game – The Forbidden Castle",
     "YearPublished": 2017,
     "Url": "https://boardgamegeek.com/boardgame/215840/",
     "Copies": 1
   },
   {
-    "Name": "Exit: The Game – The Forgotten Island",
+    "Name": "EXIT: The Game – The Forgotten Island",
     "YearPublished": 2017,
     "Url": "https://boardgamegeek.com/boardgame/215841/",
     "Copies": 1
   },
   {
-    "Name": "Exit: The Game – The Polar Station",
+    "Name": "EXIT: The Game – The Polar Station",
     "YearPublished": 2017,
     "Url": "https://boardgamegeek.com/boardgame/215842/",
     "Copies": 1
   },
   {
-    "Name": "Exit: The Game – The Return to the Abandoned Cabin",
+    "Name": "EXIT: The Game – The Return to the Abandoned Cabin",
     "YearPublished": 2021,
     "Url": "https://boardgamegeek.com/boardgame/341583/",
     "Copies": 1
   },
   {
-    "Name": "Exit: The Game – The Secret Lab",
+    "Name": "EXIT: The Game – The Secret Lab",
     "YearPublished": 2016,
     "Url": "https://boardgamegeek.com/boardgame/203417/",
     "Copies": 2
   },
   {
-    "Name": "Exit: The Game – The Sunken Treasure",
+    "Name": "EXIT: The Game – The Sunken Treasure",
     "YearPublished": 2017,
     "Url": "https://boardgamegeek.com/boardgame/226518/",
     "Copies": 1
   },
   {
-    "Name": "Exit: The Game – Theft on the Mississippi",
+    "Name": "EXIT: The Game – Theft on the Mississippi",
     "YearPublished": 2019,
     "Url": "https://boardgamegeek.com/boardgame/283934/",
     "Copies": 1
@@ -2364,7 +2466,7 @@
     "Copies": 2
   },
   {
-    "Name": "Exploding Kittens: NSFW Deck",
+    "Name": "Exploding Kittens: NSFW Edition",
     "YearPublished": 2015,
     "Url": "https://boardgamegeek.com/boardgame/172242/",
     "Copies": 1
@@ -2388,12 +2490,6 @@
     "Copies": 1
   },
   {
-    "Name": "Extraordinary Adventures: Pirates!",
-    "YearPublished": 2019,
-    "Url": "https://boardgamegeek.com/boardgame/254994/",
-    "Copies": 1
-  },
-  {
     "Name": "Fabled Fruit",
     "YearPublished": 2016,
     "Url": "https://boardgamegeek.com/boardgame/203427/",
@@ -2406,15 +2502,33 @@
     "Copies": 1
   },
   {
+    "Name": "Family Business",
+    "YearPublished": 1982,
+    "Url": "https://boardgamegeek.com/boardgame/170/",
+    "Copies": 1
+  },
+  {
     "Name": "Faraway",
     "YearPublished": 2023,
     "Url": "https://boardgamegeek.com/boardgame/385761/",
+    "Copies": 2
+  },
+  {
+    "Name": "Faraway: People From Below",
+    "YearPublished": 2024,
+    "Url": "https://boardgamegeek.com/boardgame/425029/",
     "Copies": 1
   },
   {
     "Name": "Farkle",
-    "YearPublished": 1996,
+    "YearPublished": 1930,
     "Url": "https://boardgamegeek.com/boardgame/3181/",
+    "Copies": 1
+  },
+  {
+    "Name": "Feed the Kraken",
+    "YearPublished": 2022,
+    "Url": "https://boardgamegeek.com/boardgame/271601/",
     "Copies": 1
   },
   {
@@ -2544,6 +2658,12 @@
     "Copies": 1
   },
   {
+    "Name": "Fishing",
+    "YearPublished": 2024,
+    "Url": "https://boardgamegeek.com/boardgame/419195/",
+    "Copies": 1
+  },
+  {
     "Name": "Fit to Print",
     "YearPublished": 2023,
     "Url": "https://boardgamegeek.com/boardgame/352574/",
@@ -2601,7 +2721,7 @@
     "Name": "Flip 7",
     "YearPublished": 2024,
     "Url": "https://boardgamegeek.com/boardgame/420087/",
-    "Copies": 1
+    "Copies": 3
   },
   {
     "Name": "Flip Ships",
@@ -2628,6 +2748,18 @@
     "Copies": 1
   },
   {
+    "Name": "Floating Floors",
+    "YearPublished": 2023,
+    "Url": "https://boardgamegeek.com/boardgame/334712/",
+    "Copies": 1
+  },
+  {
+    "Name": "Floats McGoats",
+    "YearPublished": 2023,
+    "Url": "https://boardgamegeek.com/boardgame/403639/",
+    "Copies": 1
+  },
+  {
     "Name": "Florence",
     "YearPublished": 2022,
     "Url": "https://boardgamegeek.com/boardgame/317411/",
@@ -2646,12 +2778,6 @@
     "Copies": 1
   },
   {
-    "Name": "Flyin' Goblin",
-    "YearPublished": 2020,
-    "Url": "https://boardgamegeek.com/boardgame/293275/",
-    "Copies": 1
-  },
-  {
     "Name": "Forbidden Desert",
     "YearPublished": 2013,
     "Url": "https://boardgamegeek.com/boardgame/136063/",
@@ -2661,18 +2787,24 @@
     "Name": "Forbidden Island",
     "YearPublished": 2010,
     "Url": "https://boardgamegeek.com/boardgame/65244/",
-    "Copies": 3
+    "Copies": 1
   },
   {
     "Name": "Forest Shuffle",
     "YearPublished": 2023,
     "Url": "https://boardgamegeek.com/boardgame/391163/",
-    "Copies": 1
+    "Copies": 2
   },
   {
     "Name": "Forest Shuffle: Alpine",
     "YearPublished": 2024,
     "Url": "https://boardgamegeek.com/boardgame/412576/",
+    "Copies": 2
+  },
+  {
+    "Name": "Forest Shuffle: Woodland Edge",
+    "YearPublished": 2024,
+    "Url": "https://boardgamegeek.com/boardgame/424129/",
     "Copies": 1
   },
   {
@@ -2680,6 +2812,12 @@
     "YearPublished": 2008,
     "Url": "https://boardgamegeek.com/boardgame/37904/",
     "Copies": 2
+  },
+  {
+    "Name": "Formula D: Circuits 6 – Austin \u0026 Nevada Ride",
+    "YearPublished": 2015,
+    "Url": "https://boardgamegeek.com/boardgame/171881/",
+    "Copies": 1
   },
   {
     "Name": "Fort",
@@ -2799,7 +2937,7 @@
     "Name": "Furnace",
     "YearPublished": 2020,
     "Url": "https://boardgamegeek.com/boardgame/318084/",
-    "Copies": 1
+    "Copies": 2
   },
   {
     "Name": "Fury of Dracula (Third/Fourth Edition)",
@@ -2835,18 +2973,6 @@
     "Name": "Gem Hens",
     "YearPublished": 2019,
     "Url": "https://boardgamegeek.com/boardgame/260015/",
-    "Copies": 1
-  },
-  {
-    "Name": "Get Bit!",
-    "YearPublished": 2007,
-    "Url": "https://boardgamegeek.com/boardgame/30539/",
-    "Copies": 1
-  },
-  {
-    "Name": "Get The Cheese!",
-    "YearPublished": 2015,
-    "Url": "https://boardgamegeek.com/boardgame/175634/",
     "Copies": 1
   },
   {
@@ -2922,12 +3048,6 @@
     "Copies": 2
   },
   {
-    "Name": "Gnomes and Wizards",
-    "YearPublished": 2024,
-    "Url": "https://boardgamegeek.com/boardgame/297703/",
-    "Copies": 1
-  },
-  {
     "Name": "Gnoming A Round",
     "YearPublished": 2020,
     "Url": "https://boardgamegeek.com/boardgame/327392/",
@@ -2961,6 +3081,12 @@
     "Name": "Grand Austria Hotel",
     "YearPublished": 2015,
     "Url": "https://boardgamegeek.com/boardgame/182874/",
+    "Copies": 1
+  },
+  {
+    "Name": "Gravwell: 2nd Edition",
+    "YearPublished": 2021,
+    "Url": "https://boardgamegeek.com/boardgame/340834/",
     "Copies": 1
   },
   {
@@ -3048,6 +3174,18 @@
     "Copies": 1
   },
   {
+    "Name": "Hansa Teutonica: Big Box",
+    "YearPublished": 2020,
+    "Url": "https://boardgamegeek.com/boardgame/286749/",
+    "Copies": 1
+  },
+  {
+    "Name": "Harmonies",
+    "YearPublished": 2024,
+    "Url": "https://boardgamegeek.com/boardgame/414317/",
+    "Copies": 1
+  },
+  {
     "Name": "Harrow County: The Fair Folk Expansion",
     "YearPublished": 2024,
     "Url": "https://boardgamegeek.com/boardgame/372118/",
@@ -3073,7 +3211,7 @@
   },
   {
     "Name": "Heads Will Roll",
-    "YearPublished": 2021,
+    "YearPublished": 2023,
     "Url": "https://boardgamegeek.com/boardgame/334266/",
     "Copies": 1
   },
@@ -3088,6 +3226,12 @@
     "YearPublished": 2022,
     "Url": "https://boardgamegeek.com/boardgame/366013/",
     "Copies": 2
+  },
+  {
+    "Name": "Heat: Tunnel Vision",
+    "YearPublished": 2025,
+    "Url": "https://boardgamegeek.com/boardgame/436904/",
+    "Copies": 1
   },
   {
     "Name": "Heckmeck Deluxe",
@@ -3111,6 +3255,12 @@
     "Name": "Heroes of Barcadia Party Pack Retail Edition",
     "YearPublished": 2022,
     "Url": "https://boardgamegeek.com/boardgame/341030/",
+    "Copies": 1
+  },
+  {
+    "Name": "Heroes of Barcadia: Heroes For Hire",
+    "YearPublished": 2025,
+    "Url": "https://boardgamegeek.com/boardgame/428551/",
     "Copies": 1
   },
   {
@@ -3174,10 +3324,22 @@
     "Copies": 1
   },
   {
+    "Name": "Horizons of Spirit Island",
+    "YearPublished": 2022,
+    "Url": "https://boardgamegeek.com/boardgame/367498/",
+    "Copies": 1
+  },
+  {
+    "Name": "Horrible Therapist",
+    "YearPublished": 2024,
+    "Url": "https://boardgamegeek.com/boardgame/430572/",
+    "Copies": 1
+  },
+  {
     "Name": "Horrified",
     "YearPublished": 2019,
     "Url": "https://boardgamegeek.com/boardgame/282524/",
-    "Copies": 1
+    "Copies": 2
   },
   {
     "Name": "Horrified: American Monsters",
@@ -3264,21 +3426,9 @@
     "Copies": 1
   },
   {
-    "Name": "Incan Gold",
-    "YearPublished": 2005,
-    "Url": "https://boardgamegeek.com/boardgame/15512/",
-    "Copies": 1
-  },
-  {
     "Name": "Indian Summer",
     "YearPublished": 2017,
     "Url": "https://boardgamegeek.com/boardgame/233678/",
-    "Copies": 1
-  },
-  {
-    "Name": "Indiana Jones: Sands of Adventure",
-    "YearPublished": 2023,
-    "Url": "https://boardgamegeek.com/boardgame/384175/",
     "Copies": 1
   },
   {
@@ -3336,12 +3486,6 @@
     "Copies": 1
   },
   {
-    "Name": "Jetpack Joyride",
-    "YearPublished": 2019,
-    "Url": "https://boardgamegeek.com/boardgame/253215/",
-    "Copies": 1
-  },
-  {
     "Name": "Joan of Arc: Orléans Draw \u0026 Write",
     "YearPublished": 2022,
     "Url": "https://boardgamegeek.com/boardgame/364641/",
@@ -3357,6 +3501,12 @@
     "Name": "Joking Hazard: Trial by Trolley Exclusives",
     "YearPublished": 2020,
     "Url": "https://boardgamegeek.com/boardgame/295541/",
+    "Copies": 1
+  },
+  {
+    "Name": "Joraku",
+    "YearPublished": 2015,
+    "Url": "https://boardgamegeek.com/boardgame/180901/",
     "Copies": 1
   },
   {
@@ -3411,6 +3561,12 @@
     "Name": "Kemet",
     "YearPublished": 2012,
     "Url": "https://boardgamegeek.com/boardgame/127023/",
+    "Copies": 2
+  },
+  {
+    "Name": "Kemet: Seth",
+    "YearPublished": 2018,
+    "Url": "https://boardgamegeek.com/boardgame/254543/",
     "Copies": 1
   },
   {
@@ -3624,12 +3780,6 @@
     "Copies": 1
   },
   {
-    "Name": "Leaf",
-    "YearPublished": 2023,
-    "Url": "https://boardgamegeek.com/boardgame/368676/",
-    "Copies": 1
-  },
-  {
     "Name": "Legacy of Yu",
     "YearPublished": 2023,
     "Url": "https://boardgamegeek.com/boardgame/354934/",
@@ -3639,6 +3789,12 @@
     "Name": "Legends of Andor",
     "YearPublished": 2012,
     "Url": "https://boardgamegeek.com/boardgame/127398/",
+    "Copies": 1
+  },
+  {
+    "Name": "Let's Go! To Japan",
+    "YearPublished": 2024,
+    "Url": "https://boardgamegeek.com/boardgame/368173/",
     "Copies": 1
   },
   {
@@ -3693,7 +3849,7 @@
     "Name": "Lost Cities",
     "YearPublished": 1999,
     "Url": "https://boardgamegeek.com/boardgame/50/",
-    "Copies": 1
+    "Copies": 2
   },
   {
     "Name": "Lost Cities: Roll \u0026 Write",
@@ -3790,12 +3946,6 @@
     "YearPublished": 1996,
     "Url": "https://boardgamegeek.com/boardgame/764/",
     "Copies": 2
-  },
-  {
-    "Name": "Mage Knight Board Game",
-    "YearPublished": 2011,
-    "Url": "https://boardgamegeek.com/boardgame/96848/",
-    "Copies": 1
   },
   {
     "Name": "Maglev Metro",
@@ -3960,7 +4110,7 @@
     "Copies": 1
   },
   {
-    "Name": "Marvel: Crisis Protocol",
+    "Name": "Marvel: Crisis Protocol Core Set",
     "YearPublished": 2019,
     "Url": "https://boardgamegeek.com/boardgame/285905/",
     "Copies": 1
@@ -4128,9 +4278,21 @@
     "Copies": 2
   },
   {
+    "Name": "Memoir '44: Breakthrough",
+    "YearPublished": 2010,
+    "Url": "https://boardgamegeek.com/boardgame/68752/",
+    "Copies": 1
+  },
+  {
     "Name": "Memoir '44: Eastern Front",
     "YearPublished": 2005,
     "Url": "https://boardgamegeek.com/boardgame/19245/",
+    "Copies": 1
+  },
+  {
+    "Name": "Memoir '44: Equipment Pack",
+    "YearPublished": 2012,
+    "Url": "https://boardgamegeek.com/boardgame/125755/",
     "Copies": 1
   },
   {
@@ -4209,7 +4371,7 @@
     "Name": "MicroMacro: Crime City",
     "YearPublished": 2020,
     "Url": "https://boardgamegeek.com/boardgame/318977/",
-    "Copies": 1
+    "Copies": 2
   },
   {
     "Name": "MicroMacro: Crime City – All In",
@@ -4275,36 +4437,6 @@
     "Name": "Mists over Carcassonne",
     "YearPublished": 2022,
     "Url": "https://boardgamegeek.com/boardgame/358124/",
-    "Copies": 1
-  },
-  {
-    "Name": "Mixtape Massacre",
-    "YearPublished": 2016,
-    "Url": "https://boardgamegeek.com/boardgame/176247/",
-    "Copies": 1
-  },
-  {
-    "Name": "Mixtape Massacre: Escape From Tall Oaks",
-    "YearPublished": 2020,
-    "Url": "https://boardgamegeek.com/boardgame/300399/",
-    "Copies": 1
-  },
-  {
-    "Name": "Mixtape Massacre: Lockdown Expansion",
-    "YearPublished": 2019,
-    "Url": "https://boardgamegeek.com/boardgame/300403/",
-    "Copies": 1
-  },
-  {
-    "Name": "Mixtape Massacre: The Black Masque Expansion",
-    "YearPublished": 2018,
-    "Url": "https://boardgamegeek.com/boardgame/231075/",
-    "Copies": 1
-  },
-  {
-    "Name": "Mixtape Massacre: The Sleigher Booster Pack",
-    "YearPublished": 2019,
-    "Url": "https://boardgamegeek.com/boardgame/334613/",
     "Copies": 1
   },
   {
@@ -4518,6 +4650,12 @@
     "Copies": 1
   },
   {
+    "Name": "Mythical Dice",
+    "YearPublished": 2016,
+    "Url": "https://boardgamegeek.com/boardgame/191071/",
+    "Copies": 1
+  },
+  {
     "Name": "Mythos Tales",
     "YearPublished": 2016,
     "Url": "https://boardgamegeek.com/boardgame/126100/",
@@ -4584,6 +4722,12 @@
     "Copies": 1
   },
   {
+    "Name": "NMBR 9",
+    "YearPublished": 2017,
+    "Url": "https://boardgamegeek.com/boardgame/217449/",
+    "Copies": 1
+  },
+  {
     "Name": "No Stress Chess",
     "YearPublished": 2004,
     "Url": "https://boardgamegeek.com/boardgame/19918/",
@@ -4608,14 +4752,8 @@
     "Copies": 1
   },
   {
-    "Name": "Oh No, Volcano!",
-    "YearPublished": 2023,
-    "Url": "https://boardgamegeek.com/boardgame/393488/",
-    "Copies": 1
-  },
-  {
     "Name": "Olymplakks",
-    "YearPublished": 2022,
+    "YearPublished": 2023,
     "Url": "https://boardgamegeek.com/boardgame/364637/",
     "Copies": 1
   },
@@ -4707,7 +4845,7 @@
     "Name": "Pandemic",
     "YearPublished": 2008,
     "Url": "https://boardgamegeek.com/boardgame/30549/",
-    "Copies": 3
+    "Copies": 2
   },
   {
     "Name": "Pandemic Legacy: Season 1",
@@ -4842,15 +4980,27 @@
     "Copies": 1
   },
   {
-    "Name": "Plague Inc.: Armageddon",
-    "YearPublished": 2019,
-    "Url": "https://boardgamegeek.com/boardgame/278166/",
+    "Name": "Pirates",
+    "YearPublished": 2021,
+    "Url": "https://boardgamegeek.com/boardgame/342807/",
+    "Copies": 1
+  },
+  {
+    "Name": "PitchCar",
+    "YearPublished": 1995,
+    "Url": "https://boardgamegeek.com/boardgame/150/",
     "Copies": 1
   },
   {
     "Name": "Plague Inc.: The Board Game",
     "YearPublished": 2017,
     "Url": "https://boardgamegeek.com/boardgame/195162/",
+    "Copies": 1
+  },
+  {
+    "Name": "Plague Inc.: The Board Game – Armageddon",
+    "YearPublished": 2019,
+    "Url": "https://boardgamegeek.com/boardgame/278166/",
     "Copies": 1
   },
   {
@@ -4870,12 +5020,6 @@
     "YearPublished": 2024,
     "Url": "https://boardgamegeek.com/boardgame/393509/",
     "Copies": 2
-  },
-  {
-    "Name": "Pocket Dungeon Quest",
-    "YearPublished": 2015,
-    "Url": "https://boardgamegeek.com/boardgame/163119/",
-    "Copies": 1
   },
   {
     "Name": "Point City",
@@ -5052,6 +5196,12 @@
     "Copies": 1
   },
   {
+    "Name": "Prophecy",
+    "YearPublished": 2022,
+    "Url": "https://boardgamegeek.com/boardgame/373435/",
+    "Copies": 1
+  },
+  {
     "Name": "Proving Grounds",
     "YearPublished": 2019,
     "Url": "https://boardgamegeek.com/boardgame/268890/",
@@ -5094,6 +5244,12 @@
     "Copies": 1
   },
   {
+    "Name": "Quacks",
+    "YearPublished": 2018,
+    "Url": "https://boardgamegeek.com/boardgame/244521/",
+    "Copies": 3
+  },
+  {
     "Name": "Quadropolis",
     "YearPublished": 2016,
     "Url": "https://boardgamegeek.com/boardgame/176396/",
@@ -5103,7 +5259,7 @@
     "Name": "Quarriors!",
     "YearPublished": 2011,
     "Url": "https://boardgamegeek.com/boardgame/91536/",
-    "Copies": 1
+    "Copies": 2
   },
   {
     "Name": "Quarriors! Light vs. Dark",
@@ -5226,6 +5382,12 @@
     "Copies": 1
   },
   {
+    "Name": "Railroad Ink: Blazing Red Edition",
+    "YearPublished": 2018,
+    "Url": "https://boardgamegeek.com/boardgame/251678/",
+    "Copies": 1
+  },
+  {
     "Name": "Railroad Ink: Deep Blue Edition",
     "YearPublished": 2018,
     "Url": "https://boardgamegeek.com/boardgame/245654/",
@@ -5274,6 +5436,12 @@
     "Copies": 1
   },
   {
+    "Name": "Rainbow",
+    "YearPublished": 2021,
+    "Url": "https://boardgamegeek.com/boardgame/341510/",
+    "Copies": 1
+  },
+  {
     "Name": "Rajas of the Ganges",
     "YearPublished": 2017,
     "Url": "https://boardgamegeek.com/boardgame/220877/",
@@ -5289,7 +5457,7 @@
     "Name": "Ransom Notes",
     "YearPublished": 2021,
     "Url": "https://boardgamegeek.com/boardgame/349812/",
-    "Copies": 2
+    "Copies": 1
   },
   {
     "Name": "Ready Set Bet",
@@ -5298,9 +5466,27 @@
     "Copies": 3
   },
   {
-    "Name": "Rebel Princess Deluxe Edition",
+    "Name": "Rebel Princess: Deluxe Edition",
     "YearPublished": 2024,
     "Url": "https://boardgamegeek.com/boardgame/418556/",
+    "Copies": 1
+  },
+  {
+    "Name": "Rebel Princess: Deluxe Edition – Happily Never After",
+    "YearPublished": 2025,
+    "Url": "https://boardgamegeek.com/boardgame/438511/",
+    "Copies": 1
+  },
+  {
+    "Name": "Rebirth",
+    "YearPublished": 2024,
+    "Url": "https://boardgamegeek.com/boardgame/417197/",
+    "Copies": 1
+  },
+  {
+    "Name": "Red Rising",
+    "YearPublished": 2021,
+    "Url": "https://boardgamegeek.com/boardgame/329465/",
     "Copies": 1
   },
   {
@@ -5352,6 +5538,12 @@
     "Copies": 1
   },
   {
+    "Name": "Rising Sun: Daimyo Box",
+    "YearPublished": 2018,
+    "Url": "https://boardgamegeek.com/boardgame/224654/",
+    "Copies": 1
+  },
+  {
     "Name": "Risk",
     "YearPublished": 1959,
     "Url": "https://boardgamegeek.com/boardgame/181/",
@@ -5364,10 +5556,16 @@
     "Copies": 1
   },
   {
+    "Name": "River of Gold",
+    "YearPublished": 2024,
+    "Url": "https://boardgamegeek.com/boardgame/399941/",
+    "Copies": 1
+  },
+  {
     "Name": "River Valley Glassworks",
     "YearPublished": 2024,
     "Url": "https://boardgamegeek.com/boardgame/407297/",
-    "Copies": 1
+    "Copies": 2
   },
   {
     "Name": "Robinson Crusoe: Adventures on the Cursed Island",
@@ -5433,6 +5631,12 @@
     "Name": "RoboRally",
     "YearPublished": 1994,
     "Url": "https://boardgamegeek.com/boardgame/18/",
+    "Copies": 1
+  },
+  {
+    "Name": "Rock Hard: 1977",
+    "YearPublished": 2024,
+    "Url": "https://boardgamegeek.com/boardgame/402679/",
     "Copies": 1
   },
   {
@@ -5523,6 +5727,12 @@
     "Name": "Ruin",
     "YearPublished": 2008,
     "Url": "https://boardgamegeek.com/boardgame/34014/",
+    "Copies": 1
+  },
+  {
+    "Name": "Ruins",
+    "YearPublished": 2025,
+    "Url": "https://boardgamegeek.com/boardgame/428635/",
     "Copies": 1
   },
   {
@@ -5751,7 +5961,7 @@
     "Name": "SETI: Search for Extraterrestrial Intelligence",
     "YearPublished": 2024,
     "Url": "https://boardgamegeek.com/boardgame/418059/",
-    "Copies": 1
+    "Copies": 2
   },
   {
     "Name": "SETUP",
@@ -5775,6 +5985,12 @@
     "Name": "Shadows over Camelot",
     "YearPublished": 2005,
     "Url": "https://boardgamegeek.com/boardgame/15062/",
+    "Copies": 2
+  },
+  {
+    "Name": "Shadows Over Normandie",
+    "YearPublished": 2015,
+    "Url": "https://boardgamegeek.com/boardgame/162351/",
     "Copies": 1
   },
   {
@@ -5862,10 +6078,16 @@
     "Copies": 1
   },
   {
+    "Name": "Simon's Cat Card Game",
+    "YearPublished": 2016,
+    "Url": "https://boardgamegeek.com/boardgame/188614/",
+    "Copies": 1
+  },
+  {
     "Name": "Sitting Ducks Deluxe",
     "YearPublished": 2015,
     "Url": "https://boardgamegeek.com/boardgame/176071/",
-    "Copies": 1
+    "Copies": 2
   },
   {
     "Name": "Sitting Ducks Gallery",
@@ -5919,6 +6141,12 @@
     "Name": "Sleuth",
     "YearPublished": 1971,
     "Url": "https://boardgamegeek.com/boardgame/594/",
+    "Copies": 1
+  },
+  {
+    "Name": "Slide",
+    "YearPublished": 2024,
+    "Url": "https://boardgamegeek.com/boardgame/415836/",
     "Copies": 1
   },
   {
@@ -6111,6 +6339,18 @@
     "Name": "Spirit Island",
     "YearPublished": 2017,
     "Url": "https://boardgamegeek.com/boardgame/162886/",
+    "Copies": 2
+  },
+  {
+    "Name": "Spirit Island: Branch \u0026 Claw",
+    "YearPublished": 2017,
+    "Url": "https://boardgamegeek.com/boardgame/193065/",
+    "Copies": 2
+  },
+  {
+    "Name": "Spirit Island: Jagged Earth",
+    "YearPublished": 2020,
+    "Url": "https://boardgamegeek.com/boardgame/262722/",
     "Copies": 1
   },
   {
@@ -6129,6 +6369,12 @@
     "Name": "Splendor: Cities of Splendor",
     "YearPublished": 2017,
     "Url": "https://boardgamegeek.com/boardgame/220653/",
+    "Copies": 1
+  },
+  {
+    "Name": "Splendor: The Sun Never Sets",
+    "YearPublished": 2025,
+    "Url": "https://boardgamegeek.com/boardgame/433146/",
     "Copies": 1
   },
   {
@@ -6162,6 +6408,12 @@
     "Copies": 1
   },
   {
+    "Name": "Star Trek: Captain's Chair",
+    "YearPublished": 2025,
+    "Url": "https://boardgamegeek.com/boardgame/422541/",
+    "Copies": 1
+  },
+  {
     "Name": "Star Trek: Catan",
     "YearPublished": 2012,
     "Url": "https://boardgamegeek.com/boardgame/117985/",
@@ -6177,6 +6429,12 @@
     "Name": "Star Wars Miniatures",
     "YearPublished": 2004,
     "Url": "https://boardgamegeek.com/boardgame/11229/",
+    "Copies": 1
+  },
+  {
+    "Name": "Star Wars: Battle of Hoth",
+    "YearPublished": 2025,
+    "Url": "https://boardgamegeek.com/boardgame/444481/",
     "Copies": 1
   },
   {
@@ -6564,6 +6822,18 @@
     "Copies": 1
   },
   {
+    "Name": "Star Wars: The Deckbuilding Game",
+    "YearPublished": 2023,
+    "Url": "https://boardgamegeek.com/boardgame/374173/",
+    "Copies": 1
+  },
+  {
+    "Name": "Star Wars: Unlock!",
+    "YearPublished": 2020,
+    "Url": "https://boardgamegeek.com/boardgame/312267/",
+    "Copies": 1
+  },
+  {
     "Name": "Star Wars: X-Wing Miniatures Game",
     "YearPublished": 2012,
     "Url": "https://boardgamegeek.com/boardgame/103885/",
@@ -6732,12 +7002,6 @@
     "Copies": 1
   },
   {
-    "Name": "Super Dungeon Explore",
-    "YearPublished": 2011,
-    "Url": "https://boardgamegeek.com/boardgame/92190/",
-    "Copies": 1
-  },
-  {
     "Name": "Super-Skill Pinball: 4-Cade",
     "YearPublished": 2020,
     "Url": "https://boardgamegeek.com/boardgame/302524/",
@@ -6810,13 +7074,7 @@
     "Copies": 1
   },
   {
-    "Name": "T.I.M.E Stories",
-    "YearPublished": 2015,
-    "Url": "https://boardgamegeek.com/boardgame/146508/",
-    "Copies": 1
-  },
-  {
-    "Name": "Tabletop Inc",
+    "Name": "Tabletop Inc.",
     "YearPublished": 2025,
     "Url": "https://boardgamegeek.com/boardgame/405719/",
     "Copies": 1
@@ -6825,6 +7083,18 @@
     "Name": "Tac Tac Jack",
     "YearPublished": 2008,
     "Url": "https://boardgamegeek.com/boardgame/39206/",
+    "Copies": 1
+  },
+  {
+    "Name": "Tacta",
+    "YearPublished": 2025,
+    "Url": "https://boardgamegeek.com/boardgame/401636/",
+    "Copies": 1
+  },
+  {
+    "Name": "Tainted Grail: Age of Legends \u0026 Last Knight Campaigns",
+    "YearPublished": 2020,
+    "Url": "https://boardgamegeek.com/boardgame/274795/",
     "Copies": 1
   },
   {
@@ -6837,6 +7107,12 @@
     "Name": "Take 5 \u0026 Take A Number",
     "YearPublished": 2018,
     "Url": "https://boardgamegeek.com/boardgame/246912/",
+    "Copies": 1
+  },
+  {
+    "Name": "Takenoko",
+    "YearPublished": 2011,
+    "Url": "https://boardgamegeek.com/boardgame/70919/",
     "Copies": 1
   },
   {
@@ -6870,7 +7146,7 @@
     "Copies": 2
   },
   {
-    "Name": "Telestrations After Dark",
+    "Name": "Telestrations: After Dark",
     "YearPublished": 2015,
     "Url": "https://boardgamegeek.com/boardgame/173761/",
     "Copies": 1
@@ -6933,7 +7209,7 @@
     "Name": "Terraforming Mars: Prelude",
     "YearPublished": 2018,
     "Url": "https://boardgamegeek.com/boardgame/247030/",
-    "Copies": 1
+    "Copies": 2
   },
   {
     "Name": "Terraforming Mars: Prelude 2",
@@ -6951,7 +7227,7 @@
     "Name": "Terraforming Mars: Turmoil",
     "YearPublished": 2019,
     "Url": "https://boardgamegeek.com/boardgame/273473/",
-    "Copies": 1
+    "Copies": 2
   },
   {
     "Name": "Terraforming Mars: Utopia \u0026 Cimmeria",
@@ -7002,6 +7278,12 @@
     "Copies": 1
   },
   {
+    "Name": "The Ancient World",
+    "YearPublished": 2014,
+    "Url": "https://boardgamegeek.com/boardgame/147253/",
+    "Copies": 1
+  },
+  {
     "Name": "The Boys: This Is Going to Hurt",
     "YearPublished": 2022,
     "Url": "https://boardgamegeek.com/boardgame/319959/",
@@ -7032,16 +7314,10 @@
     "Copies": 1
   },
   {
-    "Name": "The Climbers",
-    "YearPublished": 2008,
-    "Url": "https://boardgamegeek.com/boardgame/34297/",
-    "Copies": 1
-  },
-  {
     "Name": "The Crew: Mission Deep Sea",
     "YearPublished": 2021,
     "Url": "https://boardgamegeek.com/boardgame/324856/",
-    "Copies": 2
+    "Copies": 3
   },
   {
     "Name": "The Crew: The Quest for Planet Nine",
@@ -7089,7 +7365,13 @@
     "Name": "The Gang",
     "YearPublished": 2024,
     "Url": "https://boardgamegeek.com/boardgame/411567/",
-    "Copies": 2
+    "Copies": 3
+  },
+  {
+    "Name": "The Gang: Tools of the Trade",
+    "YearPublished": 2025,
+    "Url": "https://boardgamegeek.com/boardgame/451125/",
+    "Copies": 1
   },
   {
     "Name": "The Ghosts Betwixt",
@@ -7107,12 +7389,6 @@
     "Name": "The Great Split",
     "YearPublished": 2022,
     "Url": "https://boardgamegeek.com/boardgame/366752/",
-    "Copies": 1
-  },
-  {
-    "Name": "The Grizzled",
-    "YearPublished": 2015,
-    "Url": "https://boardgamegeek.com/boardgame/171668/",
     "Copies": 1
   },
   {
@@ -7176,6 +7452,12 @@
     "Copies": 1
   },
   {
+    "Name": "The Lord of the Rings: Fate of the Fellowship",
+    "YearPublished": 2025,
+    "Url": "https://boardgamegeek.com/boardgame/436217/",
+    "Copies": 1
+  },
+  {
     "Name": "The Lord of the Rings: The Card Game",
     "YearPublished": 2011,
     "Url": "https://boardgamegeek.com/boardgame/77423/",
@@ -7210,12 +7492,6 @@
     "YearPublished": 2015,
     "Url": "https://boardgamegeek.com/boardgame/181796/",
     "Copies": 1
-  },
-  {
-    "Name": "The Quacks of Quedlinburg",
-    "YearPublished": 2018,
-    "Url": "https://boardgamegeek.com/boardgame/244521/",
-    "Copies": 3
   },
   {
     "Name": "The Quacks of Quedlinburg: The Alchemists",
@@ -7332,6 +7608,12 @@
     "Copies": 1
   },
   {
+    "Name": "The White Castle",
+    "YearPublished": 2023,
+    "Url": "https://boardgamegeek.com/boardgame/371942/",
+    "Copies": 1
+  },
+  {
     "Name": "This Belongs in a Museum",
     "YearPublished": 2017,
     "Url": "https://boardgamegeek.com/boardgame/220642/",
@@ -7380,6 +7662,12 @@
     "Copies": 1
   },
   {
+    "Name": "Thunder Road: Vendetta – Maximum Chrome",
+    "YearPublished": 2023,
+    "Url": "https://boardgamegeek.com/boardgame/355997/",
+    "Copies": 1
+  },
+  {
     "Name": "Ticket to Ride",
     "YearPublished": 2004,
     "Url": "https://boardgamegeek.com/boardgame/9209/",
@@ -7392,10 +7680,22 @@
     "Copies": 2
   },
   {
+    "Name": "Ticket to Ride Map Collection 5: United Kingdom \u0026 Pennsylvania",
+    "YearPublished": 2015,
+    "Url": "https://boardgamegeek.com/boardgame/182078/",
+    "Copies": 1
+  },
+  {
+    "Name": "Ticket to Ride: Europa 1912",
+    "YearPublished": 2009,
+    "Url": "https://boardgamegeek.com/boardgame/53383/",
+    "Copies": 1
+  },
+  {
     "Name": "Ticket to Ride: Europe",
     "YearPublished": 2005,
     "Url": "https://boardgamegeek.com/boardgame/14996/",
-    "Copies": 2
+    "Copies": 3
   },
   {
     "Name": "Ticket to Ride: London",
@@ -7407,6 +7707,12 @@
     "Name": "Ticket to Ride: New York",
     "YearPublished": 2018,
     "Url": "https://boardgamegeek.com/boardgame/253284/",
+    "Copies": 1
+  },
+  {
+    "Name": "Ticket to Ride: Rails \u0026 Sails",
+    "YearPublished": 2016,
+    "Url": "https://boardgamegeek.com/boardgame/202670/",
     "Copies": 1
   },
   {
@@ -7443,6 +7749,18 @@
     "Name": "Tiny Epic Crimes: Kingpins",
     "YearPublished": 2023,
     "Url": "https://boardgamegeek.com/boardgame/375517/",
+    "Copies": 1
+  },
+  {
+    "Name": "Tiny Epic Cthulhu: Cult of Chaos",
+    "YearPublished": 2024,
+    "Url": "https://boardgamegeek.com/boardgame/408254/",
+    "Copies": 1
+  },
+  {
+    "Name": "Tiny Epic Cthulhu: Deluxe Edition",
+    "YearPublished": 2024,
+    "Url": "https://boardgamegeek.com/boardgame/408253/",
     "Copies": 1
   },
   {
@@ -7536,6 +7854,18 @@
     "Copies": 1
   },
   {
+    "Name": "Too Many Bones: 40 Days in Daelore",
+    "YearPublished": 2018,
+    "Url": "https://boardgamegeek.com/boardgame/239292/",
+    "Copies": 1
+  },
+  {
+    "Name": "Too Many Bones: Age of Tyranny",
+    "YearPublished": 2018,
+    "Url": "https://boardgamegeek.com/boardgame/239291/",
+    "Copies": 1
+  },
+  {
     "Name": "Too Many Bones: Dart",
     "YearPublished": 2020,
     "Url": "https://boardgamegeek.com/boardgame/283861/",
@@ -7566,9 +7896,27 @@
     "Copies": 1
   },
   {
+    "Name": "Too Many Bones: Splice \u0026 Dice",
+    "YearPublished": 2020,
+    "Url": "https://boardgamegeek.com/boardgame/281285/",
+    "Copies": 1
+  },
+  {
+    "Name": "Too Many Bones: The Gearloc Child Promo",
+    "YearPublished": 2020,
+    "Url": "https://boardgamegeek.com/boardgame/307612/",
+    "Copies": 1
+  },
+  {
     "Name": "Too Many Bones: Tink",
     "YearPublished": 2017,
     "Url": "https://boardgamegeek.com/boardgame/224898/",
+    "Copies": 1
+  },
+  {
+    "Name": "Too Many Bones: Undertow",
+    "YearPublished": 2018,
+    "Url": "https://boardgamegeek.com/boardgame/235802/",
     "Copies": 1
   },
   {
@@ -7611,6 +7959,12 @@
     "Name": "Trekking the National Parks",
     "YearPublished": 2014,
     "Url": "https://boardgamegeek.com/boardgame/154428/",
+    "Copies": 1
+  },
+  {
+    "Name": "Trekking the National Parks: Second Edition",
+    "YearPublished": 2018,
+    "Url": "https://boardgamegeek.com/boardgame/255708/",
     "Copies": 1
   },
   {
@@ -7749,7 +8103,7 @@
     "Name": "Under Falling Skies",
     "YearPublished": 2020,
     "Url": "https://boardgamegeek.com/boardgame/306735/",
-    "Copies": 2
+    "Copies": 1
   },
   {
     "Name": "Under Falling Skies: Berlin City promo tile",
@@ -7866,48 +8220,6 @@
     "Copies": 1
   },
   {
-    "Name": "Vanguard of War",
-    "YearPublished": 2017,
-    "Url": "https://boardgamegeek.com/boardgame/217544/",
-    "Copies": 1
-  },
-  {
-    "Name": "Vanguard of War: Heretic",
-    "YearPublished": 2019,
-    "Url": "https://boardgamegeek.com/boardgame/303401/",
-    "Copies": 1
-  },
-  {
-    "Name": "Vanguard of War: Heroes Vs Zombies",
-    "YearPublished": 2019,
-    "Url": "https://boardgamegeek.com/boardgame/290032/",
-    "Copies": 1
-  },
-  {
-    "Name": "Vanguard of War: Judgment",
-    "YearPublished": 2019,
-    "Url": "https://boardgamegeek.com/boardgame/303396/",
-    "Copies": 1
-  },
-  {
-    "Name": "Vanguard of War: Tomb",
-    "YearPublished": 2019,
-    "Url": "https://boardgamegeek.com/boardgame/303399/",
-    "Copies": 1
-  },
-  {
-    "Name": "Vanguard of War: Void",
-    "YearPublished": 2019,
-    "Url": "https://boardgamegeek.com/boardgame/303400/",
-    "Copies": 1
-  },
-  {
-    "Name": "Vanguard of War: Zeta",
-    "YearPublished": 2019,
-    "Url": "https://boardgamegeek.com/boardgame/303403/",
-    "Copies": 1
-  },
-  {
     "Name": "Velonimo",
     "YearPublished": 2020,
     "Url": "https://boardgamegeek.com/boardgame/323262/",
@@ -7932,7 +8244,7 @@
     "Copies": 1
   },
   {
-    "Name": "Voices In My Head",
+    "Name": "Voices in my Head",
     "YearPublished": 2022,
     "Url": "https://boardgamegeek.com/boardgame/354254/",
     "Copies": 1
@@ -8124,6 +8436,12 @@
     "Copies": 1
   },
   {
+    "Name": "World Wonders: Mundo Wonders Pack",
+    "YearPublished": 2024,
+    "Url": "https://boardgamegeek.com/boardgame/406746/",
+    "Copies": 1
+  },
+  {
     "Name": "Wreckland Run",
     "YearPublished": 2022,
     "Url": "https://boardgamegeek.com/boardgame/353411/",
@@ -8140,6 +8458,12 @@
     "YearPublished": 2024,
     "Url": "https://boardgamegeek.com/boardgame/414302/",
     "Copies": 2
+  },
+  {
+    "Name": "Xylotar: Unhinged",
+    "YearPublished": 2025,
+    "Url": "https://boardgamegeek.com/boardgame/439358/",
+    "Copies": 1
   },
   {
     "Name": "Yahtzee",
